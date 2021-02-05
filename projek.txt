@@ -2,3 +2,4 @@ RENCANA PROJEK
 - Membuat portofolio sederhana untuk diri sendiri
 - Dapat menguasai bahasa pemograman dengan baik
 - Dapat mengembangkan portofolio milik sendiri
+- Membuat website sekolah
